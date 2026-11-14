@@ -1,2 +1,1 @@
-# ai-finance-entrepreneur-blueprint
-My 12-month journey to build AI engineering, quantitative finance and entrepreneurship skills while creating AI-powered finance products.
+<img width="2132" height="2268" alt="image" src="https://github.com/user-attachments/assets/031f17d7-5072-446f-8009-d082b8209287" />
